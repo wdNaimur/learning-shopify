@@ -114,15 +114,7 @@ export default function Index() {
               )}
             </s-box>
           </s-card>
-        </s-layout-section>
-
-        <s-layout-section variant="one-third">
-          <s-card heading="Quick Links">
-            <s-box padding="base">
-              <s-button url="shopify://admin/products" target="_blank" fullWidth>Open Products in Admin</s-button>
-            </s-box>
-          </s-card>
-        </s-layout-section>
+        </s-layout-section>        
       </s-layout>
     </s-page>
   );
